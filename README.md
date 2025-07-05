@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Da Lapiz!
 
-<!--
-**mossdet/mossdet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Senior Data Scientist | EEG & Epilepsy Researcher  
+🌍 Based in Calgary, Canada | 🇨🇭🇩🇪🇨🇦 Trilingual  
+🧠 Passionate about biomedical signal processing, embedded ML, and innovation in healthcare
 
-Here are some ideas to get you started:
+## 🚀 My Interests
+- 🔬 Brain-computer interfaces, neuroimaging
+- 🤖 Machine Learning (DL, Time Series, Explainability)
+- 📊 Data Storytelling, Visualization
+- 💻 Embedded systems & edge ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mossdet&show_icons=true&theme=calm)
+
+## 📫 Get in touch
+- 🌐 [Website]([https://yourwebsite.com](https://www.lachner-piza.com/))  
+- 📧 [Email](dalapiz@proton.me)  
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/daniel-lachner-piza/))
