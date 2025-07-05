@@ -1,22 +1,4 @@
-<!-- ASCII Banner -->
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║                         Daniel Lachner Piza, PhD                                 ║
-║                Data Scientist | Machine Learning & Biomedical Signal Processing  ║
-║                              University of Calgary                               ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-
 <!-- Banner Image -->---
-
-## About Me
-
-I am a Data Scientist with experience in neurophysiological data analysis and machine learning applications. My work focuses on:
-- EEG and iEEG signal processing and analysis
-- Machine learning for biomedical applications
-- Software development for research and clinical tools
-- Data engineering and cloud-based solutions
-
-Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca/research/alberta-children-epilepsy/meet-us/staff-0) with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
-
 <p align="center">
   <img src="./banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
 </p>
@@ -24,7 +6,7 @@ Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca
 <h1 align="center">Daniel Lachner Piza, PhD, M.Sc.</h1>
 
 <p align="center">
-  Data Scientist | Machine Learning & Signal Processing Specialist  
+  Data Scientist | Machine Learning & Biomedical Signal Processing Specialist  
 </p>
 
 <p align="center">
@@ -39,51 +21,19 @@ Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca
 
 ---
 
-## 👋 About Me
+## About Me
 
-I’m a pragmatic and creative Senior Data Scientist with over a decade of experience in:
-- Neurophysiological data (EEG, iEEG, CCEPs)
-- Machine Learning & Deep Learning
-- Embedded software & Edge AI
-- Data engineering with cloud platforms
-- Building tools for clinical and research use
+I am a Data Scientist with experience in neurophysiological data analysis and machine learning applications. My work focuses on:
+- EEG and iEEG signal processing and analysis
+- Machine learning for biomedical applications
+- Software development for research and clinical tools
+- Data engineering and cloud-based solutions
 
-🔬 Currently at **University of Calgary**, with collaborations including **Persyst**.
+Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca/research/alberta-children-epilepsy/meet-us/staff-0) with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
+I hold a PhD in Biomedical Engineering from the University of Freiburg, Germany, and a Master's degree in Medical Informatics from the University of Bern, Switzerland.
 
----
 
-## Technical Skills
-
-**Programming Languages:**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Machine Learning / Deep Learning:**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-03A9F4?style=for-the-badge&logo=xgboost&logoColor=white)
-
-**Data & Infrastructure:**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Visualization & Dev Tools:**
-
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Dash](https://img.shields.io/badge/Dash-000000?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## Research Projects
+## Projects
 
 ### EEG Biomarker Detection
 - Development of [`elpi`](https://www.elpi-biomarkers.com): EEG analysis software for annotation and classification
@@ -113,12 +63,6 @@ I’m a pragmatic and creative Senior Data Scientist with over a decade of exper
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=QdhD6tcAAAAJ&hl=en)  
 
-**Recent Publications:**
-- *"A Two-stage Detector of Scalp-HFO"*, under review (2025)  
-- *"Intracranial Spike Activity from N2 Sleep..."*, under review (2025)  
-
-**Conference Presentations:** IEEE EMBC, DGfE, LACE (Latin American Epilepsy Congress)
-
 ---
 
 ## Selected Repositories
@@ -132,7 +76,7 @@ I’m a pragmatic and creative Senior Data Scientist with over a decade of exper
 ## Contact
 
 - Website: [lachner-piza.com](https://www.lachner-piza.com)  
-- Email: [daniellachner@gmail.com](mailto:daniellachner@gmail.com)  
+- Email: [daniellachner@gmail.com](mailto:dalapiz@proton.me)  
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
 - GitHub: [mossdet](https://github.com/mossdet)
 ---
