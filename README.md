@@ -1,4 +1,9 @@
-<!-- Banner Image -->---
+<!-- ASCII Banner -->
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                         Daniel Lachner Piza, PhD                                 ║
+║                Data Scientist | Machine Learning & Biomedical Signal Processing  ║
+║                              University of Calgary                               ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
 
 ## About Me
 
