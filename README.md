@@ -24,8 +24,8 @@ I am a Data Scientist with experience in neurophysiological data analysis and ma
 - Software development for research and clinical tools
 - Data engineering and cloud-based solutions
 
-Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca/research/alberta-children-epilepsy/meet-us/staff-0) with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
-I hold a PhD in Biomedical Engineering from the University of Freiburg, Germany, and a Master's degree in Medical Informatics from the University of Bern, Switzerland.
+Currently working at the [**Alberta Children's Hospital**](https://cumming.ucalgary.ca/research/alberta-children-epilepsy/meet-us/staff-0) with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
+I hold a PhD in Computational Neuroscience from the University of Freiburg, Germany, and a Master's degree in Electronic Implants from the University of Bern, Switzerland.
 
 
 ## Projects
