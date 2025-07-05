@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Da Lapiz!
+# 👋 Hi there, I'm Daniel Lachner-Piza!
 
 💼 Senior Data Scientist | EEG & Epilepsy Researcher  
 🌍 Based in Calgary, Canada | 🇨🇭🇩🇪🇨🇦 Trilingual  
