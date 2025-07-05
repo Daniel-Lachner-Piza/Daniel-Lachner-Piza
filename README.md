@@ -3,12 +3,7 @@
   <img src="./banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
 </p>
 
-<h1 align="center">Daniel Lachner Piza, PhD, M.Sc.</h1>
-
-<p align="center">
-  Data Scientist | Machine Learning & Biomedical Signal Processing Specialist  
-</p>
-
+<!-- Badges and Profile Views -->
 <p align="center">
   <a href="https://www.lachner-piza.com"><img src="https://img.shields.io/badge/Website-lachner--piza.com-0077B5?style=flat-square&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/daniel-lachner-piza"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lachner%20Piza-blue?style=flat-square&logo=linkedin" /></a>
