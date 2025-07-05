@@ -1,0 +1,41 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#2E3440;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4C566A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="200" fill="url(#grad1)"/>
+  
+  <!-- Grid pattern for subtle tech aesthetic -->
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#5E81AC" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="200" fill="url(#grid)"/>
+  
+  <!-- Main content -->
+  <text x="40" y="60" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="300" fill="#ECEFF4">
+    Daniel Lachner Piza, PhD
+  </text>
+  
+  <text x="40" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#88C0D0">
+    Data Scientist | Machine Learning & Signal Processing
+  </text>
+  
+  <text x="40" y="115" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#81A1C1">
+    University of Calgary | Neurophysiological Data Analysis
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="720" cy="50" r="3" fill="#88C0D0" opacity="0.8"/>
+  <circle cx="740" cy="70" r="2" fill="#81A1C1" opacity="0.6"/>
+  <circle cx="760" cy="90" r="4" fill="#5E81AC" opacity="0.4"/>
+  
+  <!-- Brain wave pattern -->
+  <path d="M40 140 Q60 130 80 140 T120 140 T160 140 T200 140 T240 140 T280 140 T320 140 T360 140 T400 140 T440 140 T480 140 T520 140 T560 140 T600 140 T640 140 T680 140 T720 140 T760 140" 
+        stroke="#88C0D0" stroke-width="2" fill="none" opacity="0.6"/>
+</svg>

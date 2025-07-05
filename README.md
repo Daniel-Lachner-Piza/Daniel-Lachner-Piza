@@ -1,12 +1,20 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://your-domain.com/banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
+<## About Me
+
+I am a Data Scientist with experience in neurophysiological data analysis and machine learning applications. My work focuses on:
+- EEG and iEEG signal processing and analysis
+- Machine learning for biomedical applications
+- Software development for research and clinical tools
+- Data engineering and cloud-based solutions
+
+Currently working at the **University of Calgary** with ongoing collaborations with **Persyst**.enter">
+  <img src="./banner.svg" alt="Daniel Lachner Piza Banner" width="100%" />
 </p>
 
-<h1 align="center">🧠 Daniel Lachner Piza, PhD, M.Sc.</h1>
+<h1 align="center">Daniel Lachner Piza, PhD, M.Sc.</h1>
 
 <p align="center">
-  🇨🇷🇨🇦🇩🇪🇫🇷🇨🇭  Data Scientist | ML and DSP Specialist  
+  Data Scientist | Machine Learning & Signal Processing Specialist  
 </p>
 
 <p align="center">
@@ -34,9 +42,9 @@ I’m a pragmatic and creative Senior Data Scientist with over a decade of exper
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Technical Skills
 
-**Languages & Programming:**
+**Programming Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -65,60 +73,55 @@ I’m a pragmatic and creative Senior Data Scientist with over a decade of exper
 
 ---
 
-## 🚀 Projects
+## Research Projects
 
-### 🎓 EEG Biomarker Detection
-- [`elpi`](https://www.elpi-biomarkers.com): EEG GUI for annotation, segmentation, and classification
-- Wavelet + ML classification of 10TB+ EEG data on HPC cluster
+### EEG Biomarker Detection
+- Development of [`elpi`](https://www.elpi-biomarkers.com): EEG analysis software for annotation and classification
+- Machine learning classification of large-scale EEG datasets using HPC infrastructure
 
-### 🧬 Sleep-stage Spike Analysis (with Persyst)
-- Postgres + Docker + Dash pipeline for iEEG biomarkers across sleep stages
-- Predictive modeling of SOZ using LOOCV and statistical features
+### Sleep-stage Spike Analysis
+- Collaborative project with Persyst for iEEG biomarker analysis across sleep stages
+- Development of data pipeline using PostgreSQL, Docker, and Dash for clinical data visualization
+- Statistical modeling for seizure onset zone prediction
 
-### 📱 Edge AI Object Detection
-- MobileNet_v2-based CNN, quantized and deployed on Android using LiteRT
+### Edge AI Implementation
+- Object detection system using MobileNet_v2, optimized for mobile deployment
+- Model quantization and Android integration using TensorFlow Lite
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mossdet&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mossdet&theme=default" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossdet&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## Publications
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mossdet&theme=flat&column=6&margin-w=10" />
-</p>
+[Google Scholar Profile](https://scholar.google.com/citations?user=QdhD6tcAAAAJ&hl=en)  
 
----
-
-## 📚 Publications & Talks
-
-📖 [Google Scholar](https://scholar.google.com/citations?user=QdhD6tcAAAAJ&hl=en)  
-🧠 Latest:
+**Recent Publications:**
 - *"A Two-stage Detector of Scalp-HFO"*, under review (2025)  
 - *"Intracranial Spike Activity from N2 Sleep..."*, under review (2025)  
-🎤 Talks at IEEE EMBC, DGfE, LACE (Latin American Epilepsy Congress)
+
+**Conference Presentations:** IEEE EMBC, DGfE, LACE (Latin American Epilepsy Congress)
 
 ---
 
-## ✨ Featured Repositories
+## Selected Repositories
 
-- 🔬 [`elpi`](https://github.com/mossdet/elpi) – EEG event annotation & visualization
-- ⚙️ [`mlops-dlp`](https://github.com/mossdet/mlops-dlp) – MLOps with MLflow, Docker, GCP
-- 🧪 [`pyeeg-toolbox`](https://pypi.org/project/pyeeg-toolbox/) – EEG signal processing in Python
+- [`elpi`](https://github.com/mossdet/elpi) – EEG event annotation and visualization software
+- [`mlops-dlp`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Docker, and GCP
+- [`pyeeg-toolbox`](https://pypi.org/project/pyeeg-toolbox/) – Python package for EEG signal processing
 
 ---
 
-## 🤝 Contact
+## Contact
 
-- 🌐 [lachner-piza.com](https://www.lachner-piza.com)  
-- 📧 [daniellachner@gmail.com](mailto:daniellachner@gmail.com)  
-- 💼 [linkedin.com/in/daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
-- 🧪 [github.com/mossdet](https://github.com/mossdet)
+- Website: [lachner-piza.com](https://www.lachner-piza.com)  
+- Email: [daniellachner@gmail.com](mailto:daniellachner@gmail.com)  
+- LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
+- GitHub: [mossdet](https://github.com/mossdet)
