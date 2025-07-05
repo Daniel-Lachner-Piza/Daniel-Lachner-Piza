@@ -5,7 +5,7 @@
 🧠 Passionate about biomedical signal processing, embedded ML, and innovation in healthcare
 
 ## 🚀 My Interests
-- 🔬 Brain-computer interfaces, neuroimaging
+- 🔬 Neurophysiologic Signals
 - 🤖 Machine Learning (DL, Time Series, Explainability)
 - 📊 Data Storytelling, Visualization
 - 💻 Embedded systems & edge ML
