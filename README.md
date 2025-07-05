@@ -6,7 +6,7 @@
 <h1 align="center">🧠 Daniel Lachner Piza, PhD, M.Sc.</h1>
 
 <p align="center">
-  🇨🇷🇨🇭🇩🇪 Multilingual Data Scientist | EEG & Embedded ML Specialist  
+  🇨🇷🇨🇦🇩🇪🇫🇷🇨🇭  Data Scientist | ML and DSP Specialist  
 </p>
 
 <p align="center">
