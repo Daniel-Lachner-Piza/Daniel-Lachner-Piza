@@ -73,5 +73,4 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - Website: [lachner-piza.com](https://www.lachner-piza.com)  
 - Email: [daniellachner@gmail.com](mailto:dalapiz@proton.me)  
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
-- GitHub: [mossdet](https://github.com/mossdet)
 ---
