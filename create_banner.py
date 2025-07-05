@@ -42,7 +42,7 @@ def create_mountain_silhouette(width, height):
 
 def create_banner():
     # Banner dimensions
-    width, height = 1200, 300
+    width, height = 1600, 300
     
     # Create image with gradient background (sky)
     img = Image.new('RGB', (width, height), color='white')
@@ -70,8 +70,8 @@ def create_banner():
     try:
         # Try to use a clean, professional font
         title_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", 48)
-        subtitle_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24)
-        small_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 18)
+        subtitle_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 32)
+        small_font = ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", 24)
     except:
         try:
             title_font = ImageFont.truetype("arial.ttf", 48)
@@ -175,5 +175,5 @@ def create_banner():
 if __name__ == "__main__":
     # Create and save the banner
     banner = create_banner()
-    banner.save('/home/dlp/Development/mossdet/banner.png', 'PNG', quality=95)
+    banner.save('/home/dlp/Development/mossdet/banner.png', 'PNG', quality=1000)
     print("Banner created successfully: banner.png")
