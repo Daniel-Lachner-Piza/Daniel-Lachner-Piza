@@ -64,13 +64,12 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 
 - [`elpi`](https://github.com/mossdet/elpi) – EEG event annotation and visualization software
 - [`mlops-dlp`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Docker, and GCP
-- [`pyeeg-toolbox`](https://pypi.org/project/pyeeg-toolbox/) – Python package for EEG signal processing
 
 ---
 
 ## Contact
 
 - Website: [lachner-piza.com](https://www.lachner-piza.com)  
-- Email: [daniellachner@gmail.com](mailto:dalapiz@proton.me)  
+- Email: [dalapiz@proton.me](mailto:dalapiz@proton.me)  
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
 ---
