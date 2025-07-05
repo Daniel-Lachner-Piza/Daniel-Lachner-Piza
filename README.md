@@ -5,6 +5,8 @@
 ║                              University of Calgary                               ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 
+<!-- Banner Image -->---
+
 ## About Me
 
 I am a Data Scientist with experience in neurophysiological data analysis and machine learning applications. My work focuses on:
@@ -133,3 +135,4 @@ I’m a pragmatic and creative Senior Data Scientist with over a decade of exper
 - Email: [daniellachner@gmail.com](mailto:daniellachner@gmail.com)  
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
 - GitHub: [mossdet](https://github.com/mossdet)
+---
