@@ -85,7 +85,7 @@ def create_banner():
     # Text content
     name = "Daniel Lachner Piza, PhD"
     subtitle = "Data Scientist | Machine Learning & Signal Processing"
-    location = "University of Calgary"
+    location = "Alberta Children's Hospital"
     
     # Calculate text positions for center alignment
     # Get text dimensions
