@@ -8,7 +8,7 @@ I am a Data Scientist with experience in neurophysiological data analysis and ma
 - Software development for research and clinical tools
 - Data engineering and cloud-based solutions
 
-Currently working at the **University of Calgary** with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
+Currently working at the [**University of Calgary**](https://cumming.ucalgary.ca/research/alberta-children-epilepsy/meet-us/staff-0) with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
 
 <p align="center">
   <img src="./banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
