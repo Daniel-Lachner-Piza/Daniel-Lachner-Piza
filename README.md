@@ -10,7 +10,7 @@ I am a Data Scientist with experience in neurophysiological data analysis and ma
 
 Currently working at the **University of Calgary** with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
 
----ter">
+<p align="center">
   <img src="./banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
 </p>
 
