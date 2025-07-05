@@ -1,5 +1,6 @@
-<!-- Banner Image -->
-<## About Me
+<!-- Banner Image -->---
+
+## About Me
 
 I am a Data Scientist with experience in neurophysiological data analysis and machine learning applications. My work focuses on:
 - EEG and iEEG signal processing and analysis
@@ -7,8 +8,10 @@ I am a Data Scientist with experience in neurophysiological data analysis and ma
 - Software development for research and clinical tools
 - Data engineering and cloud-based solutions
 
-Currently working at the **University of Calgary** with ongoing collaborations with **Persyst**.enter">
-  <img src="./banner.svg" alt="Daniel Lachner Piza Banner" width="100%" />
+Currently working at the **University of Calgary** with ongoing collaborations with [**Persyst**](https://www.persyst.com/).
+
+---ter">
+  <img src="./banner.png" alt="Daniel Lachner Piza Banner" width="100%" />
 </p>
 
 <h1 align="center">Daniel Lachner Piza, PhD, M.Sc.</h1>
