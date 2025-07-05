@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Daniel Lachner-Piza!
 
 💼 Senior Data Scientist | EEG & Epilepsy Researcher  
-🌍 Based in Calgary, Canada | 🇨🇭🇩🇪🇨🇦 Trilingual  
+🌍 Based in Calgary, Canada | 🇨🇷🇪🇸🇨🇦🇩🇪🇫🇷🇨🇭  
 🧠 Passionate about biomedical signal processing, embedded ML, and innovation in healthcare
 
 ## 🚀 My Interests
