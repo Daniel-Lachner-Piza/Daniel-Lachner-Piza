@@ -44,22 +44,13 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mossdet&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossdet&layout=compact&theme=default" />
-</p>
-
----
-
 ## Publications
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=QdhD6tcAAAAJ&hl=en)  
 
 ---
 
-## Selected Repositories
+## Selected Public Repositories
 
 - [`mlops-dlp`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Docker, and GCP
 - [`DatEng-dlp`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
