@@ -84,7 +84,8 @@ def create_banner():
     
     # Text content
     name = "Daniel Lachner Piza, PhD"
-    subtitle = "Data Scientist | Machine Learning, Biomedical Signal Processing, Embedded Systems"
+    #subtitle = "Data Scientist | Machine Learning, Biomedical Signal Processing, Embedded Systems"
+    subtitle = "Machine Learning, Biomedical Signal Processing, Embedded Systems"
     location = "Alberta Children's Hospital"
     
     # Calculate text positions for center alignment
@@ -123,13 +124,13 @@ def create_banner():
               fill=(0, 0, 0), font=title_font)
     draw.text((subtitle_x + shadow_offset, subtitle_y + shadow_offset), subtitle, 
               fill=(0, 0, 0), font=subtitle_font)
-    draw.text((location_x + shadow_offset, location_y + shadow_offset), location, 
-              fill=(0, 0, 0), font=small_font)
+    # draw.text((location_x + shadow_offset, location_y + shadow_offset), location, 
+    #           fill=(0, 0, 0), font=small_font)
     
     # Draw main text in white
     draw.text((name_x, name_y), name, fill=(255, 255, 255), font=title_font)
     draw.text((subtitle_x, subtitle_y), subtitle, fill=(255, 255, 255), font=subtitle_font)
-    draw.text((location_x, location_y), location, fill=(220, 220, 220), font=small_font)
+    #draw.text((location_x, location_y), location, fill=(220, 220, 220), font=small_font)
     
     return img
     chrome_options.add_argument("--headless")
