@@ -52,9 +52,9 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 
 ## Selected Public Repositories
 
-- [`mlops-dlp`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Docker, and GCP
-- [`DatEng-dlp`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
-- [`elpi`](https://github.com/mossdet/elpi) – EEG event annotation and visualization software
+- [`MLOps`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Docker, and GCP
+- [`Data Engineering`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
+- [`Data Modeling`](https://github.com/mossdet/ML_Projects) – ML Data modeling
 
 ---
 
