@@ -38,9 +38,9 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - Development of data pipeline using PostgreSQL, Docker, and Dash for clinical data visualization
 - Statistical modeling for seizure onset zone prediction
 
-### Edge AI Implementation
-- Object detection system using MobileNet_v2, optimized for mobile deployment
-- Model quantization and Android integration using TensorFlow Lite
+### MLOps and Data Engineering
+- Implementation of MLOps practices using MLflow, Prefect, Docker, and AWS services
+- Data engineering pipeline for efficient data processing and model deployment
 
 ---
 
@@ -52,9 +52,9 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 
 ## Selected Public Repositories
 
+- [`Data Modeling`](https://github.com/mossdet/ML_Projects) – ML Data modeling
 - [`MLOps`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Prefect, Docker, Flask and AWS services
 - [`Data Engineering`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
-- [`Data Modeling`](https://github.com/mossdet/ML_Projects) – ML Data modeling
 
 ---
 
