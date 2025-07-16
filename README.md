@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a Data Scientist with expertise in neurophysiological signals and machine learning applications. My work focuses on:
+I'm a Data Scientist with expertise in neurophysiological signals and machine learning applications. My work focuses on:
 - EEG and iEEG signal processing and analysis
 - Machine learning for biomedical applications
 - Software development for research and clinical tools
@@ -55,7 +55,7 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - [`Data Modeling`](https://github.com/mossdet/ML_Projects) – ML Data modeling
 - [`MLOps`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Prefect, Docker, Flask and AWS services
 - [`Data Engineering`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
-- [`Python and and SWE`](https://github.com/mossdet/Python_Ed) – Educational Resources for Python and Software Engineering
+- [`Python and SWE`](https://github.com/mossdet/Python_Ed) – Educational Resources for Python and Software Engineering
 
 ---
 
