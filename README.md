@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a Data Scientist with expertise in neurophysiological signals and machine learning applications. My work focuses on:
+Hi there! I'm a Data Scientist with expertise in neurophysiological signals and machine learning applications. My work focuses on:
 - EEG and iEEG signal processing and analysis
 - Machine learning for biomedical applications
 - Software development for research and clinical tools
