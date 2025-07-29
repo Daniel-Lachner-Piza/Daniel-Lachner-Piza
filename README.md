@@ -52,7 +52,7 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 
 ## Selected Public Repositories
 
-- [`Data Modeling`](https://github.com/mossdet/ML_Projects) – ML Data modeling
+- [`Machine Learning`](https://github.com/mossdet/ML_Projects) – Machine learning projects and experiments
 - [`MLOps`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Prefect, Docker, Flask and AWS services
 - [`Data Engineering`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
 - [`Dashboards`](https://github.com/mossdet/plotly-dashboards) – Plotly Dash dashboards for data visualization
