@@ -9,10 +9,6 @@
   <a href="https://linkedin.com/in/daniel-lachner-piza"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lachner%20Piza-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mossdet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="mossdet" />
-</p>
-
 ---
 
 ## About Me
@@ -76,4 +72,9 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - Website: [lachner-piza.com](https://www.lachner-piza.com)  
 - Email: [dalapiz@proton.me](mailto:dalapiz@proton.me)  
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mossdet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="mossdet" />
+</p>
 ---
