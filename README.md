@@ -33,6 +33,15 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - Development of [`elpi`](https://www.elpi-biomarkers.com): EEG analysis software for annotation and classification
 - Machine learning classification of large-scale EEG datasets using HPC infrastructure
 
+### Sleep-Spindles and their differences throughout infancy
+- [Automatic detection of sleep spindles](https://www.sciencedirect.com/science/article/abs/pii/S0165027017304417?via%3Dihub)
+- Provide a description of how widespread spindles are
+- Analyze spindle characteristics across pediatrric age groups:
+  - Peak frequency
+  - Power
+  - Duration
+  - Propagation extent
+
 ### Sleep-stage Spike Analysis
 - Collaborative project with Persyst for iEEG biomarker analysis across sleep stages
 - Development of data pipeline using PostgreSQL, Docker, and Dash for clinical data visualization
@@ -56,6 +65,7 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - [`MLOps`](https://github.com/mossdet/mlops-dlp) – MLOps implementation with MLflow, Prefect, Docker, Flask and AWS services
 - [`Data Engineering`](https://github.com/mossdet/dlp_data_eng) – Data engineering pipeline
 - [`Dashboards`](https://github.com/mossdet/plotly-dashboards) – Plotly Dash dashboards for data visualization
+- [`SleepSpindles`](https://github.com/Daniel-Lachner-Piza/spindle-detector) – Automatic sleep-spinlde detection and analysis across pediatric age-groups
 - [`Python and SWE`](https://github.com/mossdet/Python_Ed) – Educational Resources for Python and Software Engineering
 
 ---
