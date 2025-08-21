@@ -34,13 +34,14 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - Machine learning classification of large-scale EEG datasets using HPC infrastructure
 
 ### Sleep-Spindles and their differences throughout infancy
-- [Automatic detection of sleep spindles](https://www.sciencedirect.com/science/article/abs/pii/S0165027017304417?via%3Dihub)
+- [`SleepSpindles`](https://github.com/Daniel-Lachner-Piza/spindle-detector)
 - Provide a description of how widespread spindles are
 - Analyze spindle characteristics across pediatrric age groups:
   - Peak frequency
   - Power
   - Duration
   - Propagation extent
+- [Publication](https://www.sciencedirect.com/science/article/abs/pii/S0165027017304417?via%3Dihub)
 
 ### Sleep-stage Spike Analysis
 - Collaborative project with Persyst for iEEG biomarker analysis across sleep stages
