@@ -74,8 +74,10 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 - LinkedIn: [daniel-lachner-piza](https://linkedin.com/in/daniel-lachner-piza)  
 ---
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Daniel-Lachner-Piza&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Daniel-Lachner-Piza" />
 </p>
 
 ---
+-->
