@@ -26,7 +26,8 @@ I hold a PhD in Computational Neuroscience from the University of Freiburg, Germ
 ## Projects
 
 ### EEG Biomarker Detection
-- Development of [`elpi`](https://www.elpi-biomarkers.com): EEG analysis software for annotation and classification
+- Development of [`Elpi`](https://github.com/Daniel-Lachner-Piza/elpi_public): EEG analysis software for annotation and classification
+
 - Machine learning classification of large-scale EEG datasets using HPC infrastructure
 
 ### Sleep-Spindles and their differences throughout infancy
